@@ -4,6 +4,9 @@ numbers.push(32);
 console.log(numbers);
 numbers.pop()
 console.log(numbers);
+
+// Case Censative
+
 if (numbers.includes(2)){
     console.log("party")
 }
